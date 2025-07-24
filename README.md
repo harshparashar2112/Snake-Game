@@ -1,0 +1,1 @@
+The Snake Game is a web-based arcade game built using HTML, CSS, and JavaScript. The snake grows by eating food and ends if it hits the wall or itself. JavaScript handles movement, collisions, and game logic, while HTML and CSS structure and style the game.
